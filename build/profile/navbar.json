@@ -1,0 +1,27 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 25,
+        "width" : 150
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1eUmAbx1N-hjdlvRuhuF_pgYsLrxVbJsB/view?usp=share_link",
+            "type": "link"
+        }
+    ]
+
+}
