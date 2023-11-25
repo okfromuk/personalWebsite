@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useContext } from 'react';
-import { Chrono } from 'react-chrono';
+// import { Chrono } from 'react-chrono';
 import { Container } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import Fade from 'react-reveal';
@@ -46,7 +46,7 @@ function Education(props) {
         <Fade>
           <div style={{ width }} className="section-content-container">
             <Container>
-              <Chrono
+              {/* <Chrono
                 hideControls
                 allowDynamicUpdate
                 useReadMore={false}
@@ -70,7 +70,7 @@ function Education(props) {
                     />
                   ) : null))}
                 </div>
-              </Chrono>
+              </Chrono> */}
             </Container>
           </div>
         </Fade>
