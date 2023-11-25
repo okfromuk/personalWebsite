@@ -22,7 +22,7 @@
     "styled-components": "^5.3.1",
     "typewriter-effect": "^2.18.2",
     "use-dark-mode": "^3.0.0",
-    "vertical-timeline-component-for-react": "^1.0.7",
+    "vertical-timeline-component-for-react": "^2.0.0",
     "web-vitals": "^1.0.1"
   },
   "browserslist": {
