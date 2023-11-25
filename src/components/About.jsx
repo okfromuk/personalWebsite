@@ -27,6 +27,7 @@ const styles = {
 function About(props) {
   const { header } = props;
   const [data, setData] = useState(null);
+  console.log('header', data);
 
   const parseIntro = (text) => (
     <ReactMarkdown
@@ -54,9 +55,6 @@ function About(props) {
                 <Row>
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
-                  </Col>
-                  <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" height="350px" width="350px" />
                   </Col>
                 </Row>
               </Fade>

@@ -13,14 +13,6 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML"
-                },
-                {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS"
-                },
-                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
@@ -37,8 +29,12 @@
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/redux.png",
-                    "title": "Redux"
+                    "icon": "images/skills/nodejs.png",
+                    "title": "NodeJs"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
                 }
             ]
         },
@@ -54,12 +50,8 @@
                     "title": "Bootstarp"
                 },
                 {
-                    "icon": "images/skills/formik.png",
-                    "title": "Formik"
-                },
-                {
-                    "icon": "images/skills/restApi.png",
-                    "title": "Rest API"
+                    "icon": "images/skills/redux.png",
+                    "title": "Redux"
                 }
             ]
     }
